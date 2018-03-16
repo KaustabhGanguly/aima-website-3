@@ -6,3 +6,8 @@ I took inspiration from Google's Material design and made everything from scratc
 There is only few exercises for demonstration .
 
 The website is live at : https://kaustabhganguly.github.io/aima-exercise-3
+
+Exercises up:
+
+Introduction
+Logical Agents(Knowledge Logic Exercise)
